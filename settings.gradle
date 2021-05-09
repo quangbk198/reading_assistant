@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name = "ReadingAssistant2020"
+include ':openCVLibrary345'
